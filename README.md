@@ -1,6 +1,6 @@
-# DevBook
+# DevCircle
 
-DevBook is a full-stack web application designed for connecting users through profiles, posts, and experiences. It allows users to create, edit, and share their profiles, connect with others, and engage in discussions through posts.
+DevCircle is a full-stack web application designed for connecting users through profiles, posts, and experiences. It allows users to create, edit, and share their profiles, connect with others, and engage in discussions through posts.
 
 ## Features
 
